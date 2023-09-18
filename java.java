@@ -1,6 +1,6 @@
 class java {
     public static void main(String[] args) {
         
-        System.out.println("Fejl!");
+        System.out.println("Fejl! rettet");
     }
 }
